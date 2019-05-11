@@ -1,0 +1,2 @@
+# BurgerHut---Restaurent-Management-System
+The project “BURGER HUT MANAGEMENT SYSTEM” is an offline software to management of Burger Hut. Various steps are followed in this to complete the entire project which includes java swings. This is a java project based on core java and java swings or windows Builder. Management can create bills easily using this Software. This can help in saving time   Various discounts can also be provided time to time for the benefits of user. This project is made for applying the practical applications of various languages.
